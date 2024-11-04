@@ -3,7 +3,7 @@
 }
 
 body {
-	background-image: url(/latihan/images/bg.jpg);
+	background-image: url(/tugaslathifah/bg.jpg);
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -40,7 +40,7 @@ img {
 .teks-float {
     text-align: justify;
     font-family: Verdana;
-    font-size: 18px;
+    font-size: 15px;
     margin-bottom: 10px;
     line-height: 1.5;
     padding-bottom: 5px;
@@ -53,7 +53,7 @@ img {
     border: 10px solid rgb(3, 152, 137);
     padding: 30px;
     margin: 100px;
-    height: 350px;
+    height: 400px;
     font-family: Verdana;
     font-size: 15px;
     text-align: justify;
